@@ -1,0 +1,68 @@
+@media(min-width:768px){ 
+  div {
+    float: left;
+  }
+
+  body {
+    margin: 0 auto;
+    width: 900px;
+  }
+}
+  div{
+    margin: auto;
+    background: blue;
+  }
+  
+#header {
+  width: 480px;
+  height: 75px;
+  }
+  #nav {
+  width: 480px;
+  height: 150px;
+}
+#section1 {
+  width: 480px;
+  height: 125px;
+}
+#section2 {
+  width: 480px;
+  height: 125px;
+}
+#container {
+  width: 482px;
+}
+#section3 {
+  width: 240px;
+  height: 250px;
+}
+#section4 {
+  width: 240px;
+  height: 250px;
+
+}
+#section5 {
+  width: 240px;
+  height: 250px;
+
+}
+#section6 {
+  width: 240px;
+  height: 250px;
+
+}
+#footer {
+  width: 480px;
+  height: 80px;
+}  
+  @media(min-width:768px){ 
+    div {
+      float: left;
+    }
+  
+    body {
+      margin: auto;
+      width: 900px;
+    }
+  }
+  
