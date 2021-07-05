@@ -1,0 +1,49 @@
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+aside {
+  padding-top: 30px;
+  padding-bottom: 60px
+}
+
+nav {
+  margin-top: 25px;
+}
+
+#slogan {
+  width: 250px;
+  padding-left: 55px;
+  color: #a3a4a2;
+  font-family: 'Abel', sans-serif;
+  font-size: .65em;
+  text-transform: uppercase;
+}
+
+#logo {
+  float: left;
+  padding-bottom: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+.recipe {
+  letter-spacing: .1em;
+  font-family: 'Patrick Hand', cursive;
+  color: #666a42;
+  background-image: url("img/list-bg.png");
+  height: 260px;
+  padding: 37px 0 0 60px;
+  margin: 40px 0;
+}
+
+.date {
+  float: left;
+}
+
+.print {
+  text-decoration: none;
+  padding-left: 30px;
+  float: right;
+}
